@@ -1,4 +1,4 @@
-<h1 align="left">Frontend Developer and UI/UX Designer from Slovenia</h1>
+<h1 align="left">Web Designer and Developer from Slovenia</h1>
 
 <br>
 
